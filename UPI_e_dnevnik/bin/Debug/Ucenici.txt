@@ -1,0 +1,8 @@
+1001;Ante_Antić;ante1234;1A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:
+1002;Mate_Matić;mate1234;1A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:
+1003;Petra_Perić;petra1234;1A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:
+1004;Klara_Klarić;klara1234;1A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:
+1005;Lara_Larić;lara1234;2A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:
+1006;Ivo_Ivić;ivo1234;2A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:
+1007;Marta_Martić;marta1234;2A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:
+1008;Luka_Lukić;luka1234;2A;Ocjene_HRV:;Ocjene_ENG:;Ocjene_MAT:;0;0;0;Novi_izostanci:;Biljeske_HRV:;Biljeske_ENG:;Biljeske_MAT:

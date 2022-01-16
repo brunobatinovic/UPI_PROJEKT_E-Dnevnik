@@ -1,0 +1,3 @@
+9010;Katarina_Katić;profkata;0;1;0
+9011;Marin_Marić;profmarin;0;0;1
+9012;Vinka_Vinkić;profvinka;1;0;0

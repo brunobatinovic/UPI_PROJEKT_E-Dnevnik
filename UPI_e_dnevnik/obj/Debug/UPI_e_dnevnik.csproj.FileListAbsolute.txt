@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\UPI_e_dnevnik\bin\Debug\UPI_e_dnevnik.exe.config
+C:\Users\HP\Desktop\UPI_e_dnevnik\bin\Debug\UPI_e_dnevnik.exe
+C:\Users\HP\Desktop\UPI_e_dnevnik\bin\Debug\UPI_e_dnevnik.pdb
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.Form1.resources
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.Form2.resources
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.Properties.Resources.resources
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.exe
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.pdb
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.Form3.resources
+C:\Users\HP\Desktop\UPI_e_dnevnik\obj\Debug\UPI_e_dnevnik.Form4.resources
